@@ -1,0 +1,19 @@
+{
+  "name": "batatabit",
+  "version": "1.0.0",
+  "description": "practice of responsive design and mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oniafk/batatabit.git"
+  },
+  "author": "@gordo_arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oniafk/batatabit/issues"
+  },
+  "homepage": "https://github.com/oniafk/batatabit#readme"
+}
